@@ -1,4 +1,5 @@
-#Customer Churn Prediction Project
+
+# Customer Churn Prediction System
 
 ## ✅ Key Features
 
